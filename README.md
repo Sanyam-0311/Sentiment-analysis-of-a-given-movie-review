@@ -5,7 +5,7 @@ This repository contains a Python script for sentiment analysis on IMDb movie re
 ## Dataset
 
 The dataset (`IMDB Dataset.csv`) consists of movie reviews along with their sentiments (positive or negative). 
-link: "https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews"
+link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ### Data Statistics
 

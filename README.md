@@ -1,7 +1,4 @@
-# Sentiment-analysis-of-a-given-movie-review
-A project made using machine learning to understand the sentiment of a review entered by the user.
-
-# Movie Review Sentiment Analysis
+# Sentiment Analysis of a movie review
 
 This repository contains a Python script for sentiment analysis on IMDb movie reviews using a Random Forest Classifier.
 
